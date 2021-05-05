@@ -1,0 +1,179 @@
+{
+  "categories": [
+    {
+      "cid": "29",
+      "category_name": "EPL",
+      "category_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRcudHymypp0pEl3E3_VIZ0oN43_Tx07kqjIA&usqp=CAU"
+    },
+    {
+      "cid": "42",
+      "category_name": "UEFA Championship ",
+      "category_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gxZIAaNVJBjKCg2ri0EqKT-w3y4EDFZ0lA&usqp=CAU"
+    },
+    {
+      "cid": "40",
+      "category_name": "EFL Championship",
+      "category_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGpBc5CGlE7nLF4PbJkEOfG61_wbAGyDvnLQ&usqp=CAU"
+    },
+    {
+      "cid": "30",
+      "category_name": "Serie A",
+      "category_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTfPrMVkcMbt0TLl4Vjx4AZFG4OF8r9XZ4ctw&usqp=CAU"
+    },
+    {
+      "cid": "31",
+      "category_name": "La Liga",
+      "category_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMVDQuFE06T4HgrsiPy0ucA-cwt3JJgw2Wvw&usqp=CAU"
+    },
+    {
+      "cid": "33",
+      "category_name": "Bundesliga",
+      "category_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRZVmEnYFTa1RXTh00cR1RFSWMYYo-jols0Q&usqp=CAU"
+    },
+    {
+      "cid": "32",
+      "category_name": "Ligue 1",
+      "category_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTjWyMmcC7nHmawyUdQUUD250RbkSIWH-PrfQ&usqp=CAU"
+    },
+    {
+      "cid": "34",
+      "category_name": "Portugal Primeira Liga",
+      "category_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeVT6T-PeQGmu_owBFSoi6ZIBG9UL8lJC0rQ&usqp=CAU"
+    },
+    {
+      "cid": "36",
+      "category_name": "Greek Super League",
+      "category_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQtDM68oM6GfqK2QejYWdLwBzxk1Xc2kjcfw&usqp=CAU"
+    },
+    {
+      "cid": "39",
+      "category_name": "Italian Serie B",
+      "category_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtIPDDyMAoQ_jcQJpjCNkEzKDrkWh-DzR0Jw&usqp=CAU"
+    }
+  ],
+  "ad_ids": [
+    {
+      "ad_network": "Facebook",
+      "unit_type": "Banner",
+      "placement_id": "1399606083725433_1399626507056724",
+      "priority": "1"
+    },
+    {
+      "ad_network": "Facebook",
+      "unit_type": "Interstitial",
+      "placement_id": "1399606083725433_1400853440267364",
+      "priority": "1",
+      "timer": "1500",
+      "counter": "1"
+    },
+    {
+      "ad_network": "Facebook",
+      "unit_type": "Native",
+      "placement_id": "1399606083725433_1400854100267298",
+      "priority": "1"
+    },
+    {
+      "ad_network": "Admob",
+      "unit_type": "Banner",
+      "placement_id": "",
+      "priority": "0"
+    },
+    {
+      "ad_network": "Admob",
+      "unit_type": "Interstitial",
+      "placement_id": "",
+      "priority": "0",
+      "counter": "1"
+    },
+    {
+      "ad_network": "Admob",
+      "unit_type": "Native",
+      "placement_id": "",
+      "priority": "0"
+    },
+    {
+      "ad_network": "StartAppBanner",
+      "placement_id": "",
+      "shows": "0"
+    },
+    {
+      "ad_network": "StartAppInterstitial",
+      "placement_id": "",
+      "shows": "0"
+    },
+    {
+      "ad_network": "StartAppNative",
+      "placement_id": "",
+      "shows": "0"
+    }
+  ],
+  "data": [
+    {
+      "data_type": "DataList",
+      "data_url": "https://sportsliveleague.com/ak_dev_apps/match_list.php?auth=v1footballsapicategorydetails&id="
+    }
+  ],
+  "custom_ad": [
+    {
+      "type": "Banner",
+      "title": "",
+      "ad_url": "",
+      "img_url": "",
+      "show": "0"
+    },
+    {
+      "type": "Interstitial",
+      "title": "",
+      "ad_url": "",
+      "img_url": "",
+      "show": "0",
+      "enter_app": "0"
+    }
+  ],
+  "timer_reload": [
+    {
+      "ad_type": "Banner",
+      "timer": 60000
+    },
+    {
+      "ad_type": "Interstitial",
+      "timer": 300000
+    }
+  ],
+  "info": [
+    {
+      "mediation": "0",
+      "live_match": "1",
+      "text_live_match": "View Live Matches"
+    }
+  ],
+  "intro": [
+    {
+      "url": "https://football-tips-tricks.blogspot.com/2021/03/football-live-streaming-tv.html",
+      "show": "0"
+    }
+  ],
+  "show_dialog": [
+    {
+      "show_type": "exit_dialog",
+      "show_dialog": "1"
+    },
+    {
+      "show_type": "banner_home",
+      "show_banner_home": "1"
+    },
+    {
+      "show_type": "banner_category",
+      "show_banner_category": "1"
+    },
+    {
+      "show_type": "banner_single_channel",
+      "single_channel": "1"
+    }
+  ],
+  "api_key": [
+    {
+      "access_token": "58P9VOuRgmUWPkwXrVgibwx4o24l9EpX39IKVjqYlgStiwkKVmFA6QO9VL5F"
+    }
+  ]
+}
