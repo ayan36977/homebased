@@ -16,6 +16,16 @@
       "category_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGpBc5CGlE7nLF4PbJkEOfG61_wbAGyDvnLQ&usqp=CAU"
     },
     {
+      "cid": "36",
+      "category_name": "Greek Super League",
+      "category_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQtDM68oM6GfqK2QejYWdLwBzxk1Xc2kjcfw&usqp=CAU"
+    },
+    {
+      "cid": "34",
+      "category_name": "Portugal Primeira Liga",
+      "category_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeVT6T-PeQGmu_owBFSoi6ZIBG9UL8lJC0rQ&usqp=CAU"
+    },
+    {
       "cid": "30",
       "category_name": "Serie A",
       "category_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTfPrMVkcMbt0TLl4Vjx4AZFG4OF8r9XZ4ctw&usqp=CAU"
@@ -34,16 +44,6 @@
       "cid": "32",
       "category_name": "Ligue 1",
       "category_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTjWyMmcC7nHmawyUdQUUD250RbkSIWH-PrfQ&usqp=CAU"
-    },
-    {
-      "cid": "34",
-      "category_name": "Portugal Primeira Liga",
-      "category_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeVT6T-PeQGmu_owBFSoi6ZIBG9UL8lJC0rQ&usqp=CAU"
-    },
-    {
-      "cid": "36",
-      "category_name": "Greek Super League",
-      "category_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQtDM68oM6GfqK2QejYWdLwBzxk1Xc2kjcfw&usqp=CAU"
     },
     {
       "cid": "39",
