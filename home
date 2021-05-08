@@ -142,7 +142,7 @@
   ],
   "info": [
     {
-      "mediation": "1",
+      "mediation": "1", 
       "live_match": "1",
       "text_live_match": "View Live Matches"
     }
