@@ -105,16 +105,16 @@
   "data": [
     {
       "data_type": "DataList",
-      "data_url": "https:\/\/sportsliveleague.com\/sa_enterprises\/ipl_cum_football\/match_list.php?auth=v1footballsapicategorydetails&id="
+      "data_url": "https:\/\/sportsliveleague.com\/sa_enterprises\/ipl_cum_football\/match_list.php?auth=v1footballsapicategorydetails&id=7777"
     }
   ],
   "custom_ad": [
     {
       "type": "Banner",
-      "title": "",
-      "ad_url": "",
-      "img_url": "",
-      "show": "0"
+      "title": "Watch Football Live Matches",
+      "ad_url": "https://play.google.com/store/apps/details?id=com.football_live_score.hd_live_football_matches",
+      "img_url": "https://i.postimg.cc/xjkpYcr8/watch-live-football.png",
+      "show": "1"
     },
     {
       "type": "Interstitial",
