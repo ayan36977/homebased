@@ -150,15 +150,15 @@
       "ad_type": "Banner",
       "timer": 60000
     },
-    {
+    { 
       "ad_type": "Interstitial",
       "timer": 300000
     }
   ],
   "info": [
     {
-      "mediation": "1", 
-      "live_match": "1",
+      "mediation": "1",
+      "live_match": "1", 
       "text_live_match": "View Live Matches", 
       "package_name"=>"com.network_video_stream.video_player.live_stream.m3u8_player"
     }  
