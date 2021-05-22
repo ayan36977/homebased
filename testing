@@ -160,7 +160,7 @@
       "mediation": "1",
       "live_match": "1", 
       "text_live_match": "View Live Matches", 
-      "package_name"=>"com.network_video_stream.video_player.live_stream.m3u8_player"
+      "package_name"=>"com.video_stream.video_player.live_stream.hd_player"
     }  
   ], 
   "intro": [
