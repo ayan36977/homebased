@@ -6,6 +6,11 @@
       "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcRcudHymypp0pEl3E3_VIZ0oN43_Tx07kqjIA&usqp=CAU"
     },
     {
+      "cid": "37",
+      "category_name": "UEFA Europa League",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcSqDTioqML9uZCaEMf5uWbt1DgR1_UlJSWIeQ&usqp=CAU"
+    },
+    {
       "cid": "30",
       "category_name": "Serie A",
       "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcTfPrMVkcMbt0TLl4Vjx4AZFG4OF8r9XZ4ctw&usqp=CAU"
@@ -39,7 +44,7 @@
       "cid": "38",
       "category_name": "Taca de Portugal",
       "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTIs4ZXYW9zp1M2wzytC61KaiB3qZK1gqwmH0os82RgF1HDAEeVz114-zeJT76aOexohziYDB7SBcspktwKlbVHi9j475xlBTSNtg&usqp=CAU&ec=45768321"
-    }, 
+    },
     {
       "cid": "39",
       "category_name": "Italian Serie B",
