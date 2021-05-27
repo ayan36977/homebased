@@ -62,7 +62,7 @@
     },
     {
       "ad_type": "Interstitial",
-      "timer": 20000
+      "timer": 300000
     }
   ],
   "info": [
