@@ -3,13 +3,13 @@
     {
       "ad_network": "Facebook",
       "unit_type": "Banner",
-      "placement_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "placement_id": "2890545247824445_2890545557824414",
       "priority": "1"
     },
     {
       "ad_network": "Facebook",
       "unit_type": "Interstitial",
-      "placement_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "placement_id": "2890545247824445_2891653271046976",
       "priority": "1",
       "timer": "1500",
       "counter": "1"
@@ -18,7 +18,7 @@
       "ad_network": "Facebook",
       "unit_type": "Native",
       "placement_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "priority": "1"
+      "priority": "0"
     },
     {
       "ad_network": "Admob",
@@ -36,7 +36,7 @@
     {
       "ad_network": "Admob",
       "unit_type": "Native",
-      "placement_id": "",
+      "placement_id": "ca-app-pub-3940256099942544/2247696110",
       "priority": "0"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "ad_type": "Interstitial",
-      "timer": 60000
+      "timer": 240000
     }
   ], 
   "info": [
