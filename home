@@ -1,5 +1,10 @@
 {
   "categories": [
+  {
+      "cid": "51",
+      "category_name": "Fifa World Cup Qualify",
+      "category_image": "https:\/\/cached.imagescaler.hbpl.co.uk\/resize\/scaleHeight\/815\/cached.offlinehbpl.hbpl.co.uk\/news\/OMC\/qatar_2022-20190909082620241-20190910081431886.jpg"
+    },
    {
       "cid": "56",
       "category_name": "UEFA U21 Championship",
