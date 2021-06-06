@@ -16,6 +16,11 @@
       "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQWVnCYld3kbv2OiaUipuLz830Ho4X0mE20fPctiuZ9bsXwhtZzm0aknt7ZZzQmr6ECRtw&usqp=CAU"
     },
     {
+      "cid": "57",
+      "category_name": "Brazil Serie A",
+      "category_image": "https:\/\/i.postimg.cc\/ZRLBD3Kr\/brazil-serie-a.png"
+    },
+    {
       "cid": "29",
       "category_name": "EPL",
       "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcRcudHymypp0pEl3E3_VIZ0oN43_Tx07kqjIA&usqp=CAU"
@@ -29,11 +34,6 @@
       "cid": "31",
       "category_name": "La Liga",
       "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcTMVDQuFE06T4HgrsiPy0ucA-cwt3JJgw2Wvw&usqp=CAU"
-    },
-    {
-      "cid": "40",
-      "category_name": "EFL Championship",
-      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcRGpBc5CGlE7nLF4PbJkEOfG61_wbAGyDvnLQ&usqp=CAU"
     },
     {
       "cid": "52",
