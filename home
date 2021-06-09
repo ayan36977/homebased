@@ -5,7 +5,7 @@
       "category_name": "Fifa World Cup Qualify",
       "category_image": "https:\/\/cached.imagescaler.hbpl.co.uk\/resize\/scaleHeight\/815\/cached.offlinehbpl.hbpl.co.uk\/news\/OMC\/qatar_2022-20190909082620241-20190910081431886.jpg"
     },
-   {
+    {
       "cid": "56",
       "category_name": "UEFA U21 Championship",
       "category_image": "https:\/\/www.irishfa.com\/media\/27460\/u21s-2021-championship.jpg"
@@ -21,6 +21,11 @@
       "category_image": "https:\/\/i.postimg.cc\/ZRLBD3Kr\/brazil-serie-a.png"
     },
     {
+      "cid": "59",
+      "category_name": "Copa do Brasil",
+      "category_image": "https:\/\/i.postimg.cc\/R0LP18V2\/20180420122222-0.jpg"
+    },
+    {
       "cid": "29",
       "category_name": "EPL",
       "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcRcudHymypp0pEl3E3_VIZ0oN43_Tx07kqjIA&usqp=CAU"
@@ -29,16 +34,6 @@
       "cid": "30",
       "category_name": "Serie A",
       "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcTfPrMVkcMbt0TLl4Vjx4AZFG4OF8r9XZ4ctw&usqp=CAU"
-    },
-    {
-      "cid": "31",
-      "category_name": "La Liga",
-      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcTMVDQuFE06T4HgrsiPy0ucA-cwt3JJgw2Wvw&usqp=CAU"
-    },
-    {
-      "cid": "52",
-      "category_name": "La Liga 2",
-      "category_image": "https:\/\/1.bp.blogspot.com\/-az01g0vQHWg\/YHnK5UK-13I\/AAAAAAAAByQ\/zPfSC77PXGEDZuoLrQFaxLzZvEQ9O8zyQCPcBGAYYCw\/s308\/la%2Bliga%2B2.png"
     },
     {
       "cid": "33",
