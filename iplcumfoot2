@@ -61,7 +61,7 @@
       "ad_network": "Facebook",
       "unit_type": "Banner",
       "placement_id": "336893861200336_336894687866920",
-      "priority": "1"
+      "priority": "0"
     },
     {
       "ad_network": "Facebook",
@@ -69,13 +69,13 @@
       "placement_id": "336893861200336_337045371185185",
       "priority": "1",
       "timer": "1500",
-      "counter": "1"
+      "counter": "0"
     },
     {
       "ad_network": "Facebook",
       "unit_type": "Native",
       "placement_id": "336893861200336_337045891185133",
-      "priority": "1"
+      "priority": "0"
     },
     {
       "ad_network": "Admob",
@@ -99,17 +99,17 @@
     {
       "ad_network": "StartAppBanner",
       "placement_id": "",
-      "shows": "0"
+      "shows": "1"
     },
     {
       "ad_network": "StartAppInterstitial",
       "placement_id": "",
-      "shows": "0"
+      "shows": "1"
     },
     {
       "ad_network": "StartAppNative",
       "placement_id": "",
-      "shows": "0"
+      "shows": "1"
     }
   ],
   "data": [
