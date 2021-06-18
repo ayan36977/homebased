@@ -2,9 +2,14 @@
   "categories": [
    {
       "cid": "58",
-      "category_name": "Live Match 2021",
+      "category_name": "Live Matches 2021",
       "category_image": "https:\/\/i.postimg.cc\/YCw9zWbw\/Untitled.png"
     },
+    {
+      "cid": "60",
+      "category_name": "Copa America",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSUQVfPGG8B7IiErjx18sOdvOPBJC8aOJsFfTmTHGSZvYsIAcZXeBv9RBkkXmnKwWGzeD0&usqp=CAU"
+    }
     {
       "cid": "51",
       "category_name": "Fifa World Cup Qualify",
@@ -142,7 +147,7 @@
     },
     {
       "ad_type": "Interstitial",
-      "timer": 300000
+      "timer": 240000
     }
   ],
   "info": [
