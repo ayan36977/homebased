@@ -80,26 +80,26 @@
       "ad_network": "Facebook",
       "unit_type": "Native",
       "placement_id": "1399606083725433_1400854100267298",
-      "priority": "1"
+      "priority": "0"
     },
     {
       "ad_network": "Admob",
       "unit_type": "Banner",
-      "placement_id": "",
+      "placement_id": "/22405025169,22467551204/com.football_live_score.hd_live_football_matches.banner",
       "priority": "0"
     },
     {
       "ad_network": "Admob",
       "unit_type": "Interstitial",
-      "placement_id": "",
+      "placement_id": "/22405025169,22467551204/com.football_live_score.hd_live_football_matches.interstitial",
       "priority": "0",
       "counter": "1"
     },
     {
       "ad_network": "Admob",
       "unit_type": "Native",
-      "placement_id": "",
-      "priority": "0"
+      "placement_id": "/22405025169,22467551204/com.football_live_score.hd_live_football_matches.native",
+      "priority": "1"
     },
     {
       "ad_network": "StartAppBanner",
