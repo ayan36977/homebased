@@ -66,7 +66,7 @@
       "ad_network": "Facebook",
       "unit_type": "Banner",
       "placement_id": "1399606083725433_1399626507056724",
-      "priority": "1"
+      "priority": "0"
     },
     {
       "ad_network": "Facebook",
@@ -74,7 +74,7 @@
       "placement_id": "1399606083725433_1400853440267364",
       "priority": "1",
       "timer": "1500",
-      "counter": "1"
+      "counter": "0"
     },
     {
       "ad_network": "Facebook",
