@@ -80,7 +80,7 @@
       "ad_network": "Facebook",
       "unit_type": "Native",
       "placement_id": "",
-      "priority": "1"
+      "priority": "0"
     },
     {
       "ad_network": "Admob",
