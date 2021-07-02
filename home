@@ -133,11 +133,11 @@
     },
     {
       "type": "Interstitial",
-      "title": "",
-      "ad_url": "",
-      "img_url": "",
-      "show": "0",
-      "enter_app": "0"
+      "title": "Watch Euro 2020 Quarter Final Matches - Download ",
+      "ad_url": "https://bit.ly/3ApqIIH",
+      "img_url": "https://i.postimg.cc/nrSV1HC8/36069694.jpg",
+      "show": "1",
+      "enter_app": "1"
     }
   ],
   "timer_reload": [
