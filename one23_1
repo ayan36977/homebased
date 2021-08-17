@@ -1,9 +1,14 @@
 {
   "categories": [
     {
-      "cid": "37",
-      "category_name": "UEFA Europa League",
-      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcSqDTioqML9uZCaEMf5uWbt1DgR1_UlJSWIeQ&usqp=CAU"
+      "cid": "42",
+      "category_name": "UEFA Championship ",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcT4gxZIAaNVJBjKCg2ri0EqKT-w3y4EDFZ0lA&usqp=CAU"
+    },
+    {
+      "cid": "66",
+      "category_name": "German Super Cup - Final",
+      "category_image": "https:\/\/lh3.googleusercontent.com\/PFEEb3Iq7UMQ99gAFCxRPvIC8T5O18c3pA2TQskFUn0obu2dQPxpWAzq89Iu4sJ9KqEqOw=s350"
     },
     {
       "cid": "29",
