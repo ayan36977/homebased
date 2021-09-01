@@ -1,14 +1,9 @@
 {
   "categories": [
     {
-      "cid": "42",
-      "category_name": "UEFA Championship ",
-      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcT4gxZIAaNVJBjKCg2ri0EqKT-w3y4EDFZ0lA&usqp=CAU"
-    },
-     {
-      "cid": "37",
-      "category_name": "UEFA Europa League",
-      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcSqDTioqML9uZCaEMf5uWbt1DgR1_UlJSWIeQ&usqp=CAU"
+      "cid": "51",
+      "category_name": "Fifa World Cup Qualify",
+      "category_image": "https:\/\/cached.imagescaler.hbpl.co.uk\/resize\/scaleHeight\/815\/cached.offlinehbpl.hbpl.co.uk\/news\/OMC\/qatar_2022-20190909082620241-20190910081431886.jpg"
     },
     {
       "cid": "29",
@@ -24,16 +19,6 @@
       "cid": "31",
       "category_name": "La Liga",
       "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcTMVDQuFE06T4HgrsiPy0ucA-cwt3JJgw2Wvw&usqp=CAU"
-    },
-     {
-      "cid": "43",
-      "category_name": "German DFB Pokal",
-      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcTcCZHjHQZS9AHRYXCH_jd7hrnTYr2hRSMR0A&usqp=CAU"
-    },
-    {
-      "cid": "62",
-      "category_name": "Club Friendly",
-      "category_image": "https:\/\/i.postimg.cc\/Gh6ZwNCp\/friendly.png"
     },
     {
       "cid": "32",
@@ -51,9 +36,9 @@
       "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTeVT6T-PeQGmu_owBFSoi6ZIBG9UL8lJC0rQ&usqp=CAU"
     },
     {
-      "cid": "18",
-      "category_name": "Italian Coppa Italia",
-      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSZdmFlkh_i9GiKGnGyWFGE0pRO6DjzXL3o_Q&usqp=CAU"
+      "cid": "36",
+      "category_name": "Greek Super League",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRQtDM68oM6GfqK2QejYWdLwBzxk1Xc2kjcfw&usqp=CAU"
     },
     {
       "cid": "53",
@@ -61,19 +46,24 @@
       "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQrDkAXLCei7iAIG6wD3nKCNqgXYmBy4IlpQw&usqp=CAU"
     },
     {
-      "cid": "42",
-      "category_name": "UEFA Championship ",
-      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcT4gxZIAaNVJBjKCg2ri0EqKT-w3y4EDFZ0lA&usqp=CAU"
-    },
-    {
-      "cid": "36",
-      "category_name": "Greek Super League",
-      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRQtDM68oM6GfqK2QejYWdLwBzxk1Xc2kjcfw&usqp=CAU"
+      "cid": "68",
+      "category_name": "Italian Serie B",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQtIPDDyMAoQ_jcQJpjCNkEzKDrkWh-DzR0Jw&usqp=CAU"
     },
     {
       "cid": "40",
       "category_name": "EFL Championship",
       "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcRGpBc5CGlE7nLF4PbJkEOfG61_wbAGyDvnLQ&usqp=CAU"
+    },
+    {
+      "cid": "18",
+      "category_name": "Italian Coppa Italia",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSZdmFlkh_i9GiKGnGyWFGE0pRO6DjzXL3o_Q&usqp=CAU"
+    },
+    {
+      "cid": "43",
+      "category_name": "German DFB Pokal",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcTcCZHjHQZS9AHRYXCH_jd7hrnTYr2hRSMR0A&usqp=CAU"
     }
   ],
   "ad_ids": [
