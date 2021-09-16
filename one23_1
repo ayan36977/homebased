@@ -1,9 +1,9 @@
 {
   "categories": [
     {
-      "cid": "42",
-      "category_name": "UEFA Championship ",
-      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcT4gxZIAaNVJBjKCg2ri0EqKT-w3y4EDFZ0lA&usqp=CAU"
+      "cid": "67",
+      "category_name": "UEFA Europa Conference League",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTkyCfbmEFNgMzok3x9HzwdWXh7VrEmZFQ11syfrOtpEDgfiLBz9K5o_dFnn31E_KDe0yE&usqp=CAU"
     },
     {
       "cid": "69",
@@ -89,22 +89,22 @@
       "ad_network": "Admob",
       "unit_type": "Native",
       "placement_id": "\/22405025169,22467551204\/com.football_live_streaming_apps.football_live_tv_1.football_live_streaming.football.native",
-      "priority": "1"
+      "priority": "0"
     },
     {
       "ad_network": "StartAppBanner",
       "placement_id": "",
-      "shows": "0"
+      "shows": "1"
     },
     {
       "ad_network": "StartAppInterstitial",
       "placement_id": "",
-      "shows": "0"
+      "shows": "1"
     },
     {
       "ad_network": "StartAppNative",
       "placement_id": "",
-      "shows": "0"
+      "shows": "1"
     }
   ],
   "data": [
@@ -142,8 +142,8 @@
   ],
   "info": [
     {
-      "mediation": "1",
-      "sub": "0",
+      "mediation": "0",
+      "sub": "1",
       "live_match": "1",
       "text_live_match": "View Live Matches",
       "package_name": "com.video_stream.video_player.live_stream.hd_player",
