@@ -93,7 +93,7 @@
       "unit_type": "Interstitial",
       "placement_id": "\/22405025169,22467551204\/com.hd_live_football.football_live_streaming.live_football_streaming.live_football_matches.inter",
       "priority": "0",
-      "counter": "1"
+      "counter": "3"
     },
     {
       "ad_network": "Admob",
@@ -126,10 +126,10 @@
   "custom_ad": [
     {
       "type": "Banner",
-      "title": "",
-      "ad_url": "",
-      "img_url": "",
-      "show": "0"
+      "title": "Privacy Policy",
+      "ad_url": "https://sites.google.com/view/execlsports-privacy-policy/home",
+      "img_url": "https://i.postimg.cc/j5GRSkh8/priv.jpg",
+      "show": "1"
     },
     {
       "type": "Interstitial",
