@@ -74,7 +74,7 @@
       "placement_id": "747089439302837_747195512625563",
       "priority": "0",
       "timer": "1500",
-      "counter": "1"
+      "counter": "3"
     },
     {
       "ad_network": "Facebook",
@@ -93,7 +93,7 @@
       "unit_type": "Interstitial",
       "placement_id": "\/22405025169,22467551204\/com.hd_live_football.football_live_streaming.live_football_streaming.live_football_matches.inter",
       "priority": "0",
-      "counter": "1"
+      "counter": "3"
     },
     {
       "ad_network": "Admob",
