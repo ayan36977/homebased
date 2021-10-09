@@ -1,6 +1,11 @@
 {
   "categories": [
      {
+      "cid": "55",
+      "category_name": "International Friendly",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQWVnCYld3kbv2OiaUipuLz830Ho4X0mE20fPctiuZ9bsXwhtZzm0aknt7ZZzQmr6ECRtw&usqp=CAU"
+    },
+    {
       "cid": "70",
       "category_name": "UEFA Nations League",
       "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSKOYrTyefs9Vy3QQ-M6dtMKzpa80rMNA7nSUE5Af1GZJDYgVDQUEfwmK_VzOfX4qzJpW4&usqp=CAU"
@@ -13,7 +18,7 @@
     {
       "cid": "51",
       "category_name": "Fifa World Cup Qualify",
-      "category_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD-FY0lZ_pq-M1P65sfYWeNiVBWjRhiXBGbQ&usqp=CAU"
+      "category_image": "https:\/\/cached.imagescaler.hbpl.co.uk\/resize\/scaleHeight\/815\/cached.offlinehbpl.hbpl.co.uk\/news\/OMC\/qatar_2022-20190909082620241-20190910081431886.jpg"
     },
     {
       "cid": "30",
@@ -88,13 +93,13 @@
       "unit_type": "Interstitial",
       "placement_id": "\/22405025169,22467551204\/com.hd_live_football.football_live_streaming.live_football_streaming.live_football_matches.inter",
       "priority": "0",
-      "counter": "3"
+      "counter": "1"
     },
     {
       "ad_network": "Admob",
       "unit_type": "Native",
       "placement_id": "\/22405025169,22467551204\/com.hd_live_football.football_live_streaming.live_football_streaming.live_football_matches.native",
-      "priority": "0"
+      "priority": "1"
     },
     {
       "ad_network": "StartAppBanner",
