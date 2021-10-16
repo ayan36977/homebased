@@ -1,14 +1,14 @@
 {
   "categories": [
      {
-      "cid": "55",
-      "category_name": "International Friendly",
-      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQWVnCYld3kbv2OiaUipuLz830Ho4X0mE20fPctiuZ9bsXwhtZzm0aknt7ZZzQmr6ECRtw&usqp=CAU"
+      "cid": "67",
+      "category_name": "UEFA Europa Conference League",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTkyCfbmEFNgMzok3x9HzwdWXh7VrEmZFQ11syfrOtpEDgfiLBz9K5o_dFnn31E_KDe0yE&usqp=CAU"
     },
     {
-      "cid": "70",
-      "category_name": "UEFA Nations League",
-      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSKOYrTyefs9Vy3QQ-M6dtMKzpa80rMNA7nSUE5Af1GZJDYgVDQUEfwmK_VzOfX4qzJpW4&usqp=CAU"
+      "cid": "69",
+      "category_name": "Europa League",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTgSgS1ixuwzUg4bto4z9F7SjYtqbsMgG17ww&usqp=CAU"
     },
     {
       "cid": "29",
@@ -16,19 +16,9 @@
       "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcRcudHymypp0pEl3E3_VIZ0oN43_Tx07kqjIA&usqp=CAU"
     },
     {
-      "cid": "51",
-      "category_name": "Fifa World Cup Qualify",
-      "category_image": "https:\/\/cached.imagescaler.hbpl.co.uk\/resize\/scaleHeight\/815\/cached.offlinehbpl.hbpl.co.uk\/news\/OMC\/qatar_2022-20190909082620241-20190910081431886.jpg"
-    },
-    {
       "cid": "30",
       "category_name": "Serie A",
       "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcTfPrMVkcMbt0TLl4Vjx4AZFG4OF8r9XZ4ctw&usqp=CAU"
-    },
-    {
-      "cid": "37",
-      "category_name": "EFL Cup",
-      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRYcemGHkn7V_folaOgRrc_SLep2dPNLusgZbk0D6Y8XASl3Y0-HGOwqqJJtdlT2gDu_to&usqp=CAU"
     },
     {
       "cid": "31",
@@ -51,14 +41,14 @@
       "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTeVT6T-PeQGmu_owBFSoi6ZIBG9UL8lJC0rQ&usqp=CAU"
     },
     {
-      "cid": "36",
-      "category_name": "Greek Super League",
-      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRQtDM68oM6GfqK2QejYWdLwBzxk1Xc2kjcfw&usqp=CAU"
-    },
-    {
       "cid": "68",
       "category_name": "Italian Serie B",
       "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQtIPDDyMAoQ_jcQJpjCNkEzKDrkWh-DzR0Jw&usqp=CAU"
+    },
+    {
+      "cid": "40",
+      "category_name": "EFL Championship",
+      "category_image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn%3AANd9GcRGpBc5CGlE7nLF4PbJkEOfG61_wbAGyDvnLQ&usqp=CAU"
     }
   ],
   "ad_ids": [
