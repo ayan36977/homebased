@@ -83,13 +83,13 @@
       "unit_type": "Interstitial",
       "placement_id": "\/22405025169,22467551204\/com.hd_live_football.football_live_streaming.live_football_streaming.live_football_matches.inter",
       "priority": "0",
-      "counter": "1"
+      "counter": "3"
     },
     {
       "ad_network": "Admob",
       "unit_type": "Native",
       "placement_id": "\/22405025169,22467551204\/com.hd_live_football.football_live_streaming.live_football_streaming.live_football_matches.native",
-      "priority": "1"
+      "priority": "0"
     },
     {
       "ad_network": "StartAppBanner",
