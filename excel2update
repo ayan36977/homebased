@@ -104,17 +104,17 @@
     {
       "ad_network": "StartAppBanner",
       "placement_id": "",
-      "shows": "0"
+      "shows": "1"
     },
     {
       "ad_network": "StartAppInterstitial",
       "placement_id": "",
-      "shows": "0"
+      "shows": "1"
     },
     {
       "ad_network": "StartAppNative",
       "placement_id": "",
-      "shows": "0"
+      "shows": "1"
     }
   ],
   "data": [
@@ -152,8 +152,8 @@
   ],
   "info": [
     {
-      "mediation": "1",
-      "sub": "0",
+      "mediation": "0",
+      "sub": "1",
       "live_match": "1",
       "text_live_match": "View Live Matches",
       "package_name": "com.video_stream.video_player.live_stream.hd_player",
