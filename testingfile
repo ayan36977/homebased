@@ -1,0 +1,31 @@
+{
+  "results": [
+    {
+      "Line Item": "15792840DOMEGOOGLETILBOTHINATFCPMGAASB320X100APPT11111",
+      "Deal Type": "CPM1",
+      "Innovation / Creative Type": "TIL_Standard Banner 320 x 10011",
+      "Date": "6/24/20201",
+      "Ad server impressions": "278111",
+      "Ad server clicks": "543111",
+      "Ad server CTR": "654411"
+    },
+    {
+      "Line Item": "15792840DOMEGOOGLETILBOTHINATFCPMGAASB320X100APPTIL22222",
+      "Deal Type": "CPM2",
+      "Innovation / Creative Type": "TIL_Standard Banner 320 x 100222",
+      "Date": "6/24/20202",
+      "Ad server impressions": "278222",
+      "Ad server clicks": "543222",
+      "Ad server CTR": "654422"
+    },
+    {
+      "Line Item": "15792840DOMEGOOGLETILBOTHINATFCPMGAASB320X100APPTIL33333",
+      "Deal Type": "CP3",
+      "Innovation / Creative Type": "TIL_Standard Banner 320 x 100333",
+      "Date": "6/24/20203",
+      "Ad server impressions": "278333",
+      "Ad server clicks": "543333",
+      "Ad server CTR": "654433"
+    }
+  ]
+}
